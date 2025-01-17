@@ -1,7 +1,7 @@
 {
   "name": "workshop_make-your-own-codewars",
   "version": "1.0.0",
-  "description": "",
+  "description": "A programming task for others to try to solve",
   "main": "index.js",
   "type": "module",
   "scripts": {
