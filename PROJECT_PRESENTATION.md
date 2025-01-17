@@ -37,3 +37,11 @@ To run tests, run the following command
 **Testing:** Vitest
 
 ## What I learned
+
+## User Feedback
+
+Instructions were clear.
+
+Not too complicated, focused on work we had already done at the School of Code.
+
+Focused on one filtering one variable and data type
