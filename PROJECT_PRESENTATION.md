@@ -1,8 +1,16 @@
 # Superhero Experience Kata
 
-This project is a coding problem to show to others and have them try to solve.
+## The task
+
+The task was to create a coding problem in the style of codewars (https://www.codewars.com) to show to others and have them try to solve.
 
 It was developed to practise my learning of test driven development and the value it provides when developing software.
+
+## Planning
+
+<img src="./images/project_presentation/Hackathon Ideation.png"/>
+
+The first step was to get some general ideas for the theme we'd like to follow. Fortunately we were on the same page and quickly decided on a theme for the
 
 ## Run Locally
 
@@ -44,4 +52,4 @@ Instructions were clear.
 
 Not too complicated, focused on work we had already done at the School of Code.
 
-Focused on one filtering one variable and data type
+Focused on one filtering one variable and data type.
